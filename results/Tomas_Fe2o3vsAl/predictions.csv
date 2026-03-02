@@ -1,0 +1,7 @@
+material,geant4_name,category,X0_cm,rho_gcc,thickness_mm,p_GeV,theta0_mrad,dE_MeV
+Fe2O3,G4_FERRIC_OXIDE,heritage,3.3,5.24,10.0,2.0,3.5734,10.48
+Fe2O3,G4_FERRIC_OXIDE,heritage,3.3,5.24,10.0,4.0,1.7867,10.48
+Fe2O3,G4_FERRIC_OXIDE,heritage,3.3,5.24,10.0,6.0,1.1911,10.48
+Aluminium,G4_Al,metal,8.9,2.7,10.0,2.0,2.0900,5.40
+Aluminium,G4_Al,metal,8.9,2.7,10.0,4.0,1.0450,5.40
+Aluminium,G4_Al,metal,8.9,2.7,10.0,6.0,0.6967,5.40
